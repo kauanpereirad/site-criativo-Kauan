@@ -6,12 +6,13 @@ padding: 0;
 
 
 .cabecalho{
-background-color: #0cdfee;
-color: #1c04fa;
+background-color: #00f7ff;
+color: #ff00002d;
 display: flex;
 justify-content: space-around;
 align-items: center;
 padding: 24px;
+font-family: "poppins",sans-serif;
 }
 
 .cabecalho-imagem{
@@ -39,12 +40,21 @@ padding: 24px 0;
 
 .escola-div-conteudo{
 width: 35%;
+text-align: center;
+font-family: "poppins",sans-serif;
 }
 .escola-titulo{
 
    font-size: 35px;
 padding: 24px;
+text-align: center;
+
 }
+.estudante-imagem{
+width: 30%;
+
+}
+
 
 
 
