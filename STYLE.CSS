@@ -31,7 +31,7 @@
 }
 
 .escola {
-   background-image: linear-gradient(#ec1a1a, #d81313);
+   background-image: linear-gradient(#7e4242, #883939);
    color: black;
    display: flex;
    justify-content: center;
@@ -62,25 +62,36 @@
 }
 
 
-.etudante-div{
-text-align: center;
-padding: 20px 20px;
+.etudante-div {
+   text-align: center;
+   padding: 20px 20px;
 }
 
-.estudantes{
-background-image: linear-gradient(#eb3737,#faf5f4);
+.estudantes {
+   background-image: linear-gradient(#501f1f, #6b3b32);
 
 }
 
-.etudante-titulo{
-text-align: center;
-padding: 30px 0;
-font-size: 32px;
-color: aquamarine;
+.estudante-titulo {
+   text-align: center;
+   padding: 30px 0;
+   font-size: 32px;
+   color: aquamarine;
 }
 
-.estudante-todos{
-display: grid;
-grid-template-columns: 25% 25% 25% 25%;
+.estudante-todos {
+   display: grid;
+   grid-template-columns: 25% 25% 25% 25%;
+}
 
+.rodape {
+   background-color: #ebd9d9;
+   text-align: center;
+}
+
+
+.rodape-texto {
+   color: #000000;
+   font-size: 32px;
+   padding: 24px;
 }
